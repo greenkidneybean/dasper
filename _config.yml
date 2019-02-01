@@ -1,8 +1,8 @@
 # Website details
-name: Name
-description: Description
-email: email@site.com
-author: author
+name: Tidbits
+description: ...few of my favorite things
+#email: email@site.com
+#author: author
 lang: en
 locale: en_US
 
@@ -15,7 +15,7 @@ timezone: America/New_York
 paginateLabel: page
 paginate_path: "page/:num"
 permalink: /:categories/:year/:month/:day/:title
-baseurl: https://ozgrozer.github.io/dasper
+baseurl: http://toubers.party
 
 # Includes
 addthisId: ""
