@@ -15,7 +15,7 @@ timezone: America/New_York
 paginateLabel: page
 paginate_path: "page/:num"
 permalink: /:categories/:year/:month/:day/:title
-baseurl: http://toubers.party
+baseurl: http://toubers.party/dasper
 
 # Includes
 addthisId: ""
